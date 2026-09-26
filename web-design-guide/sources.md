@@ -1,0 +1,127 @@
+# Sources
+
+Research carried out in September 2026. Full-page fetches were blocked by the research environment's network policy, so findings come from search-engine summaries of the pages below. Where a source makes strong quantitative claims (e.g., adoption percentages), the guide either leaves them out or states them qualitatively.
+
+## Trend reports and overviews
+- [Wix: The 11 Biggest Web Design Trends of 2026](https://www.wix.com/blog/web-design-trends)
+- [Figma: Top Web Design Trends for 2026](https://www.figma.com/resource-library/web-design-trends/)
+- [Elementor: Web Design Trends to Expect in 2026](https://elementor.com/blog/web-design-trends-2026/)
+- [GoDaddy: 5 essential web design trends for 2026](https://www.godaddy.com/resources/skills/web-design-trends)
+- [Envato: kinetic type, broken grids and the return of visual personality](https://elements.envato.com/learn/web-design-trends)
+- [Fireart Studio: Tactile Brutalism & Invisible Architecture](https://fireart.studio/blog/the-best-web-design-trends/)
+- [Bubble: Web Design Trends 2026](https://bubble.io/blog/web-design-trends/)
+- [UX Pilot: 14 Web Design Trends 2026](https://uxpilot.ai/blogs/web-design-trends-2026)
+
+## Style taxonomies
+- [Vikilinks: Web Design Styles, 9 Types (design families)](https://vikilinks.com/blog/web-design-styles)
+- [Tilda: Popular Web Design Styles](https://tilda.education/en/web-design-styles)
+- [Fireart: Web Design Styles, The Complete Guide](https://fireart.studio/blog/web-design-styles-complete-guide/)
+- [DesignerUp: Most Popular UI Design Trends and Styles](https://designerup.co/blog/here-are-6-5-of-the-most-popular-ui-design-trends-and-how-to-design-them/)
+- [UI Style Guide: 67 Interactive Design Styles](https://www.uistyleguide.com/)
+- [Toptal: Brutalist vs Minimalist Web Design](https://www.toptal.com/designers/ux/minimalist-brutalist-web-design)
+
+## Product-Led Tech
+- [LogRocket: Linear design, the SaaS design trend](https://blog.logrocket.com/ux-design/linear-design/)
+- [Arlene Xu: The rise of Linear style design](https://medium.com/design-bootcamp/the-rise-of-linear-style-design-origins-trends-and-techniques-4fd96aab7646)
+- [Overpass: Why SaaS websites look the same](https://www.overpass.studio/blog/why-saas-websites-look-the-same)
+- [SaaSFrame: Designing Bento Grids That Actually Work](https://www.saasframe.io/blog/designing-bento-grids-that-actually-work-a-2026-practical-guide)
+- [Veza Digital: Best SaaS Landing Page Examples 2026](https://www.vezadigital.com/post/best-saas-landing-page-examples)
+- [Stripe design system analysis (getdesign.md)](https://getdesign.md/stripe/design-md)
+- [UW/UX: Behind the Gradient, Design at Stripe](https://uwux.medium.com/behind-the-gradient-design-at-stripe-476dcf61a51a)
+- [Setproduct: Glassmorphism vs neumorphism vs Liquid Glass](https://www.setproduct.com/blog/liquid-glass-vs-glassmorphism)
+- [Axess Lab: Glassmorphism meets accessibility](https://axesslab.com/glassmorphism-meets-accessibility-can-frosted-glass-be-inclusive/)
+- [CSS-Tricks: Getting clarity on Apple's Liquid Glass](https://css-tricks.com/getting-clarity-on-apples-liquid-glass/)
+
+## Institutional Trust
+- [GOV.UK: Government Design Principles](https://www.gov.uk/guidance/government-design-principles)
+- [GOV.UK Design System: Accessibility strategy](https://design-system.service.gov.uk/accessibility/accessibility-strategy/)
+- [The GDS Way: Building accessible services](https://gds-way.digital.cabinet-office.gov.uk/manuals/accessibility.html)
+- [Wikipedia: International Typographic Style](https://en.wikipedia.org/wiki/International_Typographic_Style)
+- [PRINT: Swiss Style principles](https://www.printmag.com/featured/swiss-style-principles-typefaces-designers/)
+- [Big Human: Guide to Swiss design](https://www.bighuman.com/blog/guide-to-swiss-design-style)
+- [SaaS Hero: Landing page trust signals](https://www.saashero.net/design/landing-page-design-trust-signals/)
+- [everything.design: Financial website design](https://www.everything.design/solution/financial-website-design)
+- [Quape: Corporate website trust elements](https://www.quape.com/corporate-website-trust-elements/)
+
+## Editorial
+- [Tubik: Editorial web designs](https://tubikstudio.com/blog/media-editorial-website-design/)
+- [FontAlternatives: Font pairings for editorial design](https://fontalternatives.com/blog/font-pairings-editorial-magazine-design/)
+- [Design Flea: Typography Trends 2026 (serif revival)](https://designflea.com/typography-trends-2026/)
+- [Made Good Designs: Web Typography Trends 2026](https://madegooddesigns.com/web-typography-trends-2026/)
+
+## Quiet Luxury
+- [Offnormal: The Quiet Power of Restraint (Aesop)](https://www.offnormal.co/blog/the-quiet-power-of-restraint-a-branding-strategy-analysis-of-aesop)
+- [Work & Co: Aesop.com redesign](https://work.co/news/how-aesop/)
+- [Toimi: Best e-commerce website designs 2026](https://toimi.pro/blog/best-ecommerce-website-designs/)
+- [Techelix: Editorial UI for luxury brands](https://studio.techelix.co/the-art-of-editorial-ui-leveraging-typography-and-whitespace-for-luxury-brands-ui/)
+- [KIJO: Luxury website design principles](https://kijo.london/blog/luxury-website-design)
+- [Hooman: What makes a website look expensive](https://hooman.com/blogs/what-make-websites-expensive)
+- [Cloudbeds: Hotel website design best practices](https://www.cloudbeds.com/articles/hotel-website-design/)
+
+## Organic & Human
+- [Fairwind Creative: Neo-Naturalism](https://fairwindcreative.com/blog/neo-naturalism-the-down-to-earth-graphic-design-trend-defining-2026/)
+- [Envato: Organic graphic design trends](https://elements.envato.com/learn/back-to-basics-organic-graphic-design-trends)
+- [designmd.app: Organic Biophilic](https://designmd.app/library/organic-biophilic)
+- [99designs: Wellness web design ideas](https://99designs.com/inspiration/websites/wellness)
+
+## Bold Expressive
+- [Nielsen Norman Group: Neobrutalism, definition and best practices](https://www.nngroup.com/articles/neobrutalism/)
+- [neubrutalism.com: Definitive guide](https://neubrutalism.com/)
+- [The Plus Addons: Neo-brutalism examples and CSS](https://theplusaddons.com/blog/neo-brutalism-web-design/)
+- [HubSpot: Neo Brutalism guide](https://blog.hubspot.com/website/neo-brutalism)
+- [Todaymade: Brutalist web design guide](https://www.todaymade.com/blog/brutalist-web-design)
+- [Design Magazine: Y2K 2.0](https://designmagazine.com.au/y2k-2-0-when-digital-nostalgia-meets-modern-design/)
+- [Skillshare: Maximalism deep dive](https://www.skillshare.com/en/blog/maximalism-deep-dive/)
+- [Muksal Creative: Anti-design typography](https://muksalcreative.com/2025/07/09/anti-design-typography-trend-2025/)
+
+## Immersive Layer
+- [Utsubo: Immersive storytelling websites guide](https://www.utsubo.com/blog/immersive-storytelling-websites-guide)
+- [Awwwards: 365, A Year of Cartier](https://www.awwwards.com/inspiration/365-a-year-of-cartier-infinite-scroll-webgl-immersive-experience)
+- [Digital Strategy Force: Why immersive experiences dominate the 2026 Awwwards](https://digitalstrategyforce.com/journal/why-are-immersive-experiences-dominating-the-2026-awwwards/)
+- [Metabole: Immersive website examples](https://metabole.studio/en/blog/immersive-website-examples)
+- [HackerNoon: The interaction budget for WebGL interfaces](https://hackernoon.com/the-interaction-budget-keeping-webgl-interfaces-usable-on-real-devices)
+- [14islands: Progressive enhancement with WebGL and React](https://medium.com/14islands/progressive-enhancement-with-webgl-and-react-71cd19e66d4)
+
+## Premium Product Minimalism ("Apple-like")
+- [VoltAgent awesome-design-md: Apple DESIGN.md](https://github.com/VoltAgent/awesome-design-md/blob/main/design-md/apple/DESIGN.md)
+- [Superdesign: Apple Design System Breakdown (2026)](https://superdesign.dev/blog/apple-design-system)
+- [getdesign.md: Design System Analysis, Apple](https://getdesign.md/apple/design-md)
+- [Fudge: apple.com fonts, colors and UI patterns](https://design.withfudge.com/share/apple.com-design)
+- [Dembrandt: Apple design tokens](https://www.dembrandt.com/explorer/apple)
+- [Website Design Ltd: Website design analysis, Apple](https://www.websitedesign.co.uk/website-design-analysis-apple/)
+- [thoughtbot: Whitespace](https://thoughtbot.com/blog/whitespace)
+- [Canny Creative: Apple brand breakdown](https://www.canny-creative.com/brand-breakdown/brand/apple/)
+- [Apple Developer: Get to know the new design system (WWDC25)](https://developer.apple.com/videos/play/wwdc2025/356/)
+- [Create with Swift: Liquid Glass, hierarchy, harmony and consistency](https://www.createwithswift.com/liquid-glass-redefining-design-through-hierarchy-harmony-and-consistency/)
+- [Wikipedia: Liquid Glass](https://en.wikipedia.org/wiki/Liquid_Glass)
+- [Apple Developer: Fonts (SF Pro)](https://developer.apple.com/fonts/)
+- [Wikipedia: San Francisco typeface](https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface))
+- [FindFont: Free alternatives to SF Pro](https://www.findfont.co/learn/best-free-san-francisco-sf-pro-font-alternatives)
+- [CSS-Tricks: Apple product-page scrolling animations](https://css-tricks.com/lets-make-one-of-those-fancy-scrolling-animations-used-on-apple-product-pages/)
+- [Awwwards: Apple AirPods Pro scroll-triggered animation](https://www.awwwards.com/inspiration/product-scroll-triggered-animation-apple-airpods-pro)
+- [geyer.dev: CSS image-sequence animations](https://geyer.dev/blog/css-image-sequence-animations/)
+- [LogRocket: Liquid Glass effects with CSS and SVG](https://blog.logrocket.com/how-create-liquid-glass-effects-css-and-svg/)
+- [kube.io: Liquid Glass in the browser](https://kube.io/blog/liquid-glass-css-svg/)
+- [iF Design: Dieter Rams, 10 principles for good design](https://ifdesign.com/en/if-magazine/dieter-rams-10-principles-for-good-design)
+- [Design Museum: Dieter Rams' ten principles](https://designmuseum.org/discover-design/all-stories/what-is-good-design-a-quick-look-at-dieter-rams-ten-principles)
+- [Enchanting Marketing: How to write like Apple](https://www.enchantingmarketing.com/write-like-apple/)
+- [SpeechSilver: Apple's copywriting techniques](https://speechsilver.com/apple-copywriting-techniques/)
+- [DBS Interactive: How to design a website like Apple's](https://www.dbswebsite.com/blog/how-to-design-a-website-like-apples/)
+- [Hyperlink InfoSystem: Minimalist website designs (Tesla, Dyson, Sonos)](https://www.hyperlinkinfosystem.com/article/examples-of-the-best-minimalist-website-designs)
+- [UX Collective: Did Apple abandon its own design heuristics?](https://uxdesign.cc/did-apple-abandoned-its-own-design-heuristics-accessibility-principles-2d616ed7ace5)
+- [Tiny Frog: Why your website shouldn't look like Apple's](https://tinyfrog.com/the-problem-with-apples-website/)
+- [NN/g: Low-contrast text is not the answer](https://www.nngroup.com/articles/low-contrast/)
+
+## Foundations: standards, performance, systems
+- [W3C: WCAG 2.2](https://www.w3.org/TR/WCAG22/)
+- [WebAIM: WCAG 2.2 overview](https://webaim.org/blog/wcag-2-2-overview-and-feedback/)
+- [TetraLogical: What's new in WCAG 2.2](https://tetralogical.com/blog/2023/10/05/whats-new-wcag-2.2/)
+- [corewebvitals.io: LCP, INP and CLS explained](https://www.corewebvitals.io/core-web-vitals)
+- [Baymard Institute: Product page UX 2026](https://baymard.com/blog/current-state-ecommerce-product-page-ux)
+- [Aleksandr Hovhannisyan: Fluid type scale with clamp](https://www.aleksandrhovhannisyan.com/blog/fluid-type-scale-with-css-clamp/)
+- [Fluid Type Scale Calculator](https://www.fluid-type-scale.com/)
+- [Refactoring UI takeaways (Andrew Nisbet)](https://www.ajnisbet.com/blog/refactoring-ui)
+- [UX Planet: The 4-point spacing system](https://uxplanet.org/principles-of-spacing-in-ui-design-a-beginners-guide-to-the-4-point-spacing-system-6e88233b527a)
+- [Frontend Horizon: View Transitions and scroll-driven animations](https://www.frontendhorizon.com/blog/view-transitions-api-and-css-scroll-driven-animations-the-browser-wins-of-2026)
+- [925 Studios: AI slop web design guide](https://www.925studios.co/blog/ai-slop-web-design-guide)
+- [Kyle Chayka: The generic style of AI web design](https://kylechayka.substack.com/p/the-generic-style-of-ai-web-design)
