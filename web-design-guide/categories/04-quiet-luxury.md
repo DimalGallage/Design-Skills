@@ -19,6 +19,7 @@ The strongest 2026 version is **"intellectual luxury"**, with Aesop as the refer
 | Organic & Human | Organic is warm, soft and approachable. Luxury is cool, distant and aspirational. Organic shows the founder smiling; Luxury shows the object in perfect light. |
 | Bold Expressive | Opposites. Loudness signals mass market, except in deliberate streetwear/hype crossover drops. |
 | Institutional | Both are calm, but Luxury is emotional and sensory. Institutional is rational and functional. |
+| Premium Product Minimalism | Premium Product is engineering-led, sans-serif, specific (specs, prices stated plainly) and crisp. Luxury is fashion-led, often serif, deliberately vague and slow. See [Category 7](./08-premium-product-minimalism.md). |
 
 ## 3. Where to use it
 

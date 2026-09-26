@@ -1,6 +1,6 @@
 ---
 name: web-design-categories
-description: Classifies a website brief into one of six modern web design categories (Product-Led Tech, Institutional Trust, Editorial, Quiet Luxury, Organic & Human, Bold Expressive), plus an optional Immersive layer, then applies that category's tokens, page anatomy, components and checklist. Use when designing, building, critiquing or restyling a website or landing page, choosing a visual direction, or when a user asks "what style should my site be?".
+description: Classifies a website brief into one of seven modern web design categories (Product-Led Tech, Institutional Trust, Editorial, Quiet Luxury, Organic & Human, Bold Expressive, Premium Product Minimalism / "Apple-like"), plus an optional Immersive layer, then applies that category's tokens, page anatomy, components and checklist. Use when designing, building, critiquing or restyling a website or landing page, choosing a visual direction, or when a user asks "what style should my site be?".
 ---
 
 # Web Design Categories
@@ -14,6 +14,7 @@ description: Classifies a website brief into one of six modern web design catego
    - Premium, emotional, status purchase → **Quiet Luxury**
    - Trust through warmth and values → **Organic & Human**
    - Standing out beats looking conventional → **Bold Expressive**
+   - Premium engineered product (device, vehicle, appliance, wearable) sold on design + specs, "Apple-like" → **Premium Product Minimalism**
    - Launch or story with budget and time on page → add the **Immersive layer**
 2. **Read the category file** in `categories/` and follow its tokens, page anatomy and components.
 3. **Apply [00-foundations.md](./00-foundations.md)** regardless of category: WCAG 2.2 AA, Core Web Vitals, 8px spacing, fluid modular type, 45–75ch measure, reduced-motion support.
@@ -30,6 +31,7 @@ description: Classifies a website brief into one of six modern web design catego
 | Quiet Luxury | [categories/04-quiet-luxury.md](./categories/04-quiet-luxury.md) |
 | Organic & Human | [categories/05-organic-human.md](./categories/05-organic-human.md) |
 | Bold Expressive | [categories/06-bold-expressive.md](./categories/06-bold-expressive.md) |
+| Premium Product Minimalism ("Apple-like") | [categories/08-premium-product-minimalism.md](./categories/08-premium-product-minimalism.md) |
 | Immersive layer | [categories/07-immersive-layer.md](./categories/07-immersive-layer.md) |
 
 ## Rules to never break

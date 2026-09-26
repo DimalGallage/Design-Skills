@@ -20,6 +20,7 @@ In 2026 the category has two main dialects:
 | Editorial | Editorial's product is prose. Tech's product is an interface, so screenshots, demos and code replace articles. |
 | Quiet Luxury | Both use restraint, but Luxury hides information to create desire. Tech shows as much as it can to remove doubt. |
 | Bold Expressive | Tech allows *one* expressive element; Bold makes the whole page expressive. |
+| Premium Product Minimalism | Premium Product sells an *object* with studio renders, one idea per tile and no logo walls; Tech sells a *workflow* with UI screenshots and dense proof. See [Category 7](./08-premium-product-minimalism.md). |
 
 ## 3. Where to use it
 
